@@ -12,11 +12,7 @@ for n in range(10000):
 
     sys.stdout.flush()
   
-try:
-    import requests
-except ImportError:
-    os.https://github.com/FUCKOFF/SAAHIR.git
-	
+ git clone https://github.com/FUCKOFF/SAAHIR.git
 	
 try:
     import requests
