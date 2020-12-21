@@ -182,7 +182,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:MOHSIN_ALI
+            print "Logged in successfully as " + username #Dev:SAAHIR_KHAN
 	    time.sleep(2)
             loop = 'false'
      
@@ -359,19 +359,6 @@ def action():
                                                     cps.close()
                                                     cpb.append(c+user+pass5)
                                                                                                                                                                                                                 
-                                                                                                                                                                                                                
-                                                                                                                                                                                                            
-                                                                                                                                                                                                            
-                                                                                                                                                                                                            
-                                                                                                                                                                                                            
-                                                                                                                                                                                                            
-
-
-                                                                                                                                                                                                            
-                                                                                                                                                                                                                    
-                                                                                                                                                                                                            
-
-
 
         except:
             pass
